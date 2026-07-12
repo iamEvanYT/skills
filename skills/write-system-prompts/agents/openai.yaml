@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write System Prompts"
+  short_description: "Design robust, testable system prompts"
+  default_prompt: "Use $write-system-prompts to draft or improve a system prompt for my agent."
